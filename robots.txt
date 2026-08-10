@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: blekdzhek-na-realnye-dengi-s-vyvo-ff0e3.github.io
+Sitemap: https://blekdzhek-na-realnye-dengi-s-vyvo-ff0e3.github.io/sitemap.xml
